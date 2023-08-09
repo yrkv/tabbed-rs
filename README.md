@@ -5,6 +5,10 @@
 
 This repo also containes a `tabctrl` binary for manipulating `tabbed-rs` windows, which is inspired by [bsptab](https://github.com/albertored11/bsptab). For now it's only really usable in bspwm but will be made more general later.
 
+![image](https://github.com/yrkv/tabbed-rs/assets/11140316/aa2d6e29-f345-4a6f-a945-42b1ac893295)
+
+Note the tabs at the top of the screenshot, much like in `tabbed`.
+
 ## Why?
 
 `tabbed` has a few bugs that were annoying me and I'm not a huge fan of the extremely minimal appearance. I was able to deal with everything with patches and a collection of shell scripts, but it was a mess. Since `tabbed` is small and minimal enough, it's not too bad to remake it completely with my use case in mind.
