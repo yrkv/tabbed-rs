@@ -1,7 +1,7 @@
 
 # tabbed-rs
 
-`tabbed-rs` is a rust rewrite/clone of [tabbed](https://tools.suckless.org/tabbed/). In brief, `tabbed` has bugs which annoy me and lacks certain specific behaviors which I hacked together with shell scripts.
+`tabbed-rs` is a rust rewrite/clone of [tabbed](https://tools.suckless.org/tabbed/). It's intended to be a slightly less minimal yet still rather minimal alternative with all the features I want.
 
 This repo also containes a `tabctrl` binary for manipulating `tabbed-rs` windows, which is inspired by [bsptab](https://github.com/albertored11/bsptab). For now it's only really usable in bspwm but will be made more general later.
 
